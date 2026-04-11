@@ -1,5 +1,4 @@
 
----
 
 ## Objective (as per Case Study Brief)
 
