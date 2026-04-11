@@ -90,7 +90,6 @@ Full detailed insights and charts are available in `presentation/CEO_Presentatio
 
 **Project completed as per the official BrightTV Case Study brief.**  
 
-Ready for GitHub submission!
 
 **Author:** Itumeleng (Junior Data Analyst)  
 
