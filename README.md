@@ -1,6 +1,6 @@
 
 
-## Objective (as per Case Study Brief)
+## Objective 
 
 Deliver insights that help grow BrightTV’s subscription base by answering:
 - What are the key **user and usage trends**?
